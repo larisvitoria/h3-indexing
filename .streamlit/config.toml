@@ -1,0 +1,38 @@
+# Tema da interface web (app.py). Cores derivadas da identidade TRAMA:
+# verde-floresta como cor primária e verde-limão como destaque na sidebar.
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#2f6b3a"
+backgroundColor = "#f6f7f2"
+secondaryBackgroundColor = "#edf0e6"
+textColor = "#1c2a1f"
+linkColor = "#2f6b3a"
+borderColor = "#dde3d3"
+showWidgetBorder = true
+showSidebarBorder = false
+baseRadius = "0.7rem"
+buttonRadius = "0.6rem"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "Plus Jakarta Sans:https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&display=swap"
+codeFont = "JetBrains Mono:https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+baseFontSize = 15
+headingFontSizes = ["2rem", "1.3rem", "1.1rem"]
+headingFontWeights = [800, 700, 700]
+metricValueFontSize = "1.75rem"
+metricValueFontWeight = 700
+codeBackgroundColor = "#edf0e6"
+dataframeHeaderBackgroundColor = "#edf0e6"
+greenColor = "#2f6b3a"
+
+[theme.sidebar]
+primaryColor = "#c8e639"
+backgroundColor = "#16291b"
+secondaryBackgroundColor = "#213b27"
+textColor = "#e9f1df"
+borderColor = "#31503a"
+blueBackgroundColor = "#24412a"
+blueTextColor = "#dbeaa0"
